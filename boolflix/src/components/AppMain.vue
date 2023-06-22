@@ -2,7 +2,7 @@
 
 import FilmsList from './FilmsList.vue'
 import SearchBar from './SearchBar.vue'
-import axios, { axios } from 'axios'
+import axios, { Axios } from 'axios'
 
 export default{
     name:'MainApp',
