@@ -14,7 +14,7 @@ export default{
     data(){
         return{
 
-            apiUrl: 'https://api.themoviedb.org/3/movie/550',
+            apiUrl: 'https://api.themoviedb.org/3/search/movie',
             moviesList: [],
 
         }
